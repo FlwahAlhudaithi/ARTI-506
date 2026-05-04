@@ -16,6 +16,8 @@ This notebook covers a full end-to-end ML pipeline applied to a synthetic hospit
 
 ## Dataset
 Synthetic hospital dataset with features: admission date, hospital name, condition type, patient demographics, severity level, length of stay, comorbidities, diagnosis codes, medication dosage, and emergency visits.
+**Source:** Ministry of Health (MoH), "Riyadh Hospital Admissions Dataset (2020-2024)," General Directorate of Health Affairs, Riyadh, Saudi Arabia, 2024.
+Available at: [Kaggle Dataset](https://www.kaggle.com/datasets/datasetengineer/riyadh-hospital-admissions-dataset-20202024)
 
 ## Tech Stack
 `Python` · `XGBoost` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `Google Colab`
