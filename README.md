@@ -1,4 +1,4 @@
-# ARTI-506 Project — MediSight G3 (Assignment 2)
+# ARTI-506 Project — MediSight G3 
 
 A data science pipeline for analyzing hospital admission patterns across Saudi Arabian medical facilities using machine learning.
 
